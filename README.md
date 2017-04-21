@@ -1,2 +1,3 @@
-# IdeaFestival2017
-Implementation of the concept robot
+# Idea Festival 2017
+아이디어 페스티벌 관련하여 개발 과정에서 찾은 자료, 소스코드, 매뉴얼 등을 정리합니다.
+자세한 기술 내용은 Wiki페이지를 참고하세요.
