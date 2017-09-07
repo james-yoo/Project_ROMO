@@ -85,11 +85,11 @@ void setup() {
   pinMode(13, OUTPUT); //Initiates Motor Channel A pin
   pinMode(8, OUTPUT);  //Initiates Brake Channel A pin
   
-  Serial.begin(57600); // ros-teleop-twist-keybord defualt baud-rate
+  //Serial.begin(57600); // ros-teleop-twist-keybord defualt baud-rate
 
   delay(1000);
   
-  nh.getHardware()->setBaud(57600);
+  nh.getHardware()->setBaud(115200);
   nh.initNode();
   nh.subscribe(sub);  
 }
