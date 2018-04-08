@@ -12,3 +12,5 @@ ROMO(Robot + Mobility) is the novel concept robot combined with personal mobilit
 - 3D stereo vision sensor  
   
 ![ROMO](https://user-images.githubusercontent.com/23667624/31980051-f218f712-b984-11e7-82b7-38caaf783213.jpg)
+  
+![2nd_prize_winner](https://user-images.githubusercontent.com/23667624/38473436-0bb260dc-3bcb-11e8-88b9-8d9939e717cf.jpg)
